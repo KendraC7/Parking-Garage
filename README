@@ -2,7 +2,9 @@ Parking Garage Management Software
 Created By: Bradley Niziak, Kendra Campbell, Sadman Sakib
 CSC 190 Software Engineering Spring 2016
 
-To use this software: Compile and run "garage.java"
+To use this software, do the following:
+	1. Compile GUIS.java
+	2. Compile and run "garage.java"
 
 Included File Checklist:
 
