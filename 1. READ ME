@@ -1,0 +1,24 @@
+Parking Garage Management Software
+Created By: Bradley Niziak, Kendra Campbell, Sadman Sakib
+CSC 190 Software Engineering Spring 2016
+
+To use this software: Compile and run "garage.java"
+
+Included File Checklist:
+
+	Text Files:
+
+		1. garageInfo.txt
+		2. DailyReservations.txt
+		3. employeePasswords.txt
+		4. CompletedReservations.txt
+		5. ReservationMasterFile.txt
+		6. HourlyUpdate.txt
+		7. READ ME.txt (this document)
+
+	Java Files:
+		
+		1. garage.java
+		2. garageUtilities.java
+		3. GUIS.java
+		4. Section.java

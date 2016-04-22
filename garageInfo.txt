@@ -1,0 +1,4 @@
+Floors: 3
+Sections_Per_Floor: 4
+Number_of_Reserved_Sections: 2
+Spaces_Per_Section: 20
